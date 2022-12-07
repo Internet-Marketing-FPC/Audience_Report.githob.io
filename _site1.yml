@@ -7,7 +7,7 @@ navbar:
       href: index.html
     - text: "Division 2"
       href: about.html
-    - text: "Branch Comparation"
+    - text: "Branch Comparison"
       href: Branch.html
     - text: "Company Wide Summary"
       href: Overall.html
